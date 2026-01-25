@@ -56,7 +56,8 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=purshottam-jain24&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b27" alt="Top Languages" />
   <br>
 <img src="https://github-readme-stats.vercel.app/api?username=purshottam-jain24&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=1a1b27" alt="GitHub Stats" height="170em"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=purshottam-jain24&theme=tokyonight&hide_border=true&background=1a1b27" alt="GitHub Streak" height="170em"/>
+  <br>
+  <img src="https://github-readme-streak-stats-eight.vercel.app/?user=purshottam-jain24&theme=react" alt="GitHub Streak" height="170em"/>
 </div>
 
 <div align="center">
