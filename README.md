@@ -1,74 +1,55 @@
-<div align="center">
-  <a href="https://github.com/purshottam-jain24">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=58A6FF¢er=true&vCenter=true&width=435&lines=Hi+there%2C+I'm+Purshottam+Jain+👋;Full-Stack+Web+Developer;Crafting+digital+solutions+with+code.;Let's+build+something+amazing!+🚀" />
-  </a>
-</div>
+<h1 align="center">Purshottam Jain</h1>
+<p align="center">
+  <b>Full-Stack Web Developer</b> <br>
+  Delhi, India <br>
+  <a href="https://www.purshottam.is-a.dev/">Portfolio</a> • 
+  <a href="https://www.linkedin.com/in/purshottam-jain24/">LinkedIn</a> • 
+  <a href="mailto:purshottam.jain24@gmail.com">Email</a>
+</p>
 
 <br>
-<table>
-  <tr>
-    <td width="65%" valign="top">
-      <h3>👨‍💻 About Me</h3>
-      <p>
-        I'm a passionate Full-Stack Developer from <b>Delhi, India</b> 🇮🇳, specializing in building clean, intuitive, and high-performance web applications. I thrive on solving complex problems and turning ideas into reality.
-      </p>
-      <ul>
-        <li>🌍 Based in <b>Delhi, India</b></li>
-        <li>🚀 Open to collaborating on <b>innovative web apps & open source</b>.</li>
-        <li>📫 How to reach me: <a href="mailto:purshottam.jain24@gmail.com"><b>purshottam.jain24@gmail.com</b></a></li>
-        <li>🌐 Check out my work: <a href="https://www.purshottamjain.me/"><b>purshottamjain.me</b></a></li>
-      </ul> 
-      <h3>🌐 Connect with Me</h3>
-      <p>
-        <a href="https://www.linkedin.com/in/purshottam-jain24/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-        <a href="https://github.com/purshottam-jain24" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
-      </p>
-    </td>
-    <td width="35%" valign="top">
-      <h3>🛠️ Tech Stack</h3>
-      <details open>
-        <summary><b>Frontend</b></summary>
-        <p align="left">
-          <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,tailwind" /></a>
-        </p>
-      </details>
-      <details>
-        <summary><b>Backend & Database</b></summary>
-        <p align="left">
-          <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=nodejs,express,firebase,mongodb" /></a>
-        </p>
-      </details>
-      <details>
-        <summary><b>Tools & Platforms</b></summary>
-        <p align="left">
-          <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma" /></a>
-        </p>
-      </details>
-    </td>
-  </tr>
-</table>
 
----
+### Professional Summary
 
-### 📊 GitHub Stats & Activity
+Experienced Full-Stack Developer specializing in building scalable web applications with modern technologies. Proficient in **TypeScript**, **Next.js**, and **Node.js**, I design and implement robust frontend interfaces and efficient backend architectures. My focus is on writing clean, maintainable code and delivering high-performance solutions that solve complex business problems. Passionate about software craftsmanship and continuously learning emerging technologies.
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=purshottam-jain24&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b27" alt="Top Languages" />
-  <br>
-<img src="https://github-readme-stats.vercel.app/api?username=purshottam-jain24&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=1a1b27" alt="GitHub Stats" height="170em"/>
-  <br>
-  <img src="https://github-readme-streak-stats-eight.vercel.app/?user=purshottam-jain24&theme=react" alt="GitHub Streak" height="170em"/>
-</div>
+<br>
 
-<div align="center">
-  <br>
-  <a href="https://github.com/purshottam-jain24">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=purshottam-jain24&theme=tokyonight&hide_border=true&bg_color=1a1b27&color=58a6ff&line=58a6ff&point=ffffff" />
+### Core Expertise
+
+- **Full-Stack Development:** End-to-end application development using the MERN stack and Next.js ecosystem.
+- **Frontend Architecture:** Building responsive, accessible, and performant UIs with React, Tailwind CSS, and TypeScript.
+- **Backend Engineering:** Designing RESTful APIs, managing database schemas, and ensuring server-side security.
+- **State Management:** Efficient data handling and synchronization using modern state management libraries.
+- **Optimization:** Improving application performance, SEO, and user experience through best practices.
+
+<br>
+
+### Tech Stack
+
+| Domain       | Technologies                                                             |
+| :----------- | :----------------------------------------------------------------------- |
+| **Frontend** | TypeScript, JavaScript (ES6+), React, Next.js, HTML5, CSS3, Tailwind CSS |
+| **Backend**  | Node.js, Express.js                                                      |
+| **Database** | MongoDB, Firebase                                                        |
+| **Tools**    | Git, GitHub, VS Code, Postman, Figma                                     |
+
+<br>
+
+### GitHub Stats
+
+<p align="center">
+  <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=purshottam-jain24&theme=graywhite&hide_border=true" alt="Purshottam's GitHub Streak" />
   </a>
-</div>
+</p>
 
-<div align="center">
-  <br>
-  
-  ![Visitor Badge](https://komarev.com/ghpvc/?username=purshottam-jain24&style=for-the-badge&color=blueviolet)
-</div>
+<br>
+
+### Contact
+
+I act as a collaborative partner for teams and clients looking to build exceptional web experiences.
+
+- **Email**: [purshottam.jain24@gmail.com](mailto:purshottam.jain24@gmail.com)
+- **LinkedIn**: [linkedin.com/in/purshottam-jain24](https://www.linkedin.com/in/purshottam-jain24/)
+- **Portfolio**: [purshottam.is-a.dev](https://www.purshottam.is-a.dev/)
