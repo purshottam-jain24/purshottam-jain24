@@ -36,16 +36,6 @@ Experienced Full-Stack Developer specializing in building scalable web applicati
 
 <br>
 
-### GitHub Stats
-
-<p align="center">
-  <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=purshottam-jain24&theme=graywhite&hide_border=true" alt="Purshottam's GitHub Streak" />
-  </a>
-</p>
-
-<br>
-
 ### Contact
 
 I act as a collaborative partner for teams and clients looking to build exceptional web experiences.
