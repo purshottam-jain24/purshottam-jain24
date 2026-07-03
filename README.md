@@ -31,7 +31,7 @@ Lately I've spent a lot of time on multi-tenant SaaS, real-time systems, and AI 
 
 | Project | What it is | Built with |
 | :------ | :--------- | :--------- |
-| **[WantJob.in](https://wantjob.in)** | A job platform with an AI mock-interview engine. It runs voice interviews, adapts questions as you answer, transcribes across English, Hindi, and Hinglish, then gives you feedback. Around 3,000 people use it. | Next.js, TypeScript, Firebase, Redis, Gemini |
+| **[WantJob.in](https://wantjob.in)** | A job platform with an AI mock-interview engine. It runs voice interviews, adapts questions as you answer, transcribes across English, Hindi, and Hinglish, then gives you feedback. Around 5,000 people use it. | Next.js, TypeScript, Firebase, Redis, Gemini |
 | **[AutoRelay.net](https://autorelay.net)** | An email platform (think Resend/Mailchimp) for sending transactional and marketing mail over AWS SES. Has a template builder, campaigns, open/click tracking, and a developer API. Self-hosted on a VPS. | Next.js, TypeScript, AWS SES/SNS, Redis, Razorpay |
 | **[VIPS Feedback Portal](http://student-feedback.vips.edu/)** | An internal portal for my college, used across 6+ departments by 7,000+ students. Role-based access, anonymous feedback, faculty dashboards. | Next.js, Firebase, Server Actions |
 | **GHX** | A CLI for managing multiple GitHub accounts — separate SSH keys, automatic identity switching, and repo syncing, so you stop committing from the wrong account. | Node.js, TypeScript, Commander.js |
