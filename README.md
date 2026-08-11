@@ -67,4 +67,3 @@ Always happy to talk about a project or just trade notes. Reach me wherever's ea
 - **Email** — [purshottam.jain24@gmail.com](mailto:purshottam.jain24@gmail.com)
 - **GitHub** — [github.com/purshottam-jain24](https://github.com/purshottam-jain24)
 - **LinkedIn** — [linkedin.com/in/purshottam-jain24](https://www.linkedin.com/in/purshottam-jain24/)
-- **Portfolio** — [purshottam.thegenx.tech](https://purshottam.thegenx.tech/)
