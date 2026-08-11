@@ -2,7 +2,6 @@
 <p align="center">
   <b>Full-Stack Web Developer</b> <br>
   Delhi, India <br>
-  <a href="https://purshottam.thegenx.tech/">Portfolio</a> • 
   <a href="https://github.com/purshottam-jain24">GitHub</a> • 
   <a href="https://www.linkedin.com/in/purshottam-jain24/">LinkedIn</a> • 
   <a href="mailto:purshottam.jain24@gmail.com">Email</a>
